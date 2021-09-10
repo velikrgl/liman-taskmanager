@@ -7,7 +7,7 @@ Liman Merkezi Yönetim Sisteminin hedefi, platformdan bağımsız olarak sisteml
 - Merkezi olarak yönetme amacında limana kolay bir şekilde yüklenebilen eklenti geliştirme işlemlerinin bir örneği olan görev yöneticisi eklentisi , kullanıcıların arayüz üzerinden;
   - Görevleri Yönetme
   - Servis Durumunu kontrol etme 
-  - İşlem Ağağcını görüntelebilme gibi özelliklere sahiptir. 
+  - İşlem Ağacını görünteleyebilme gibi özelliklere sahiptir. 
 
 
 # Anahtar Kelimeler
