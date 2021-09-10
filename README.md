@@ -9,5 +9,15 @@ Liman Merkezi Yönetim Sisteminin hedefi, platformdan bağımsız olarak sisteml
   - Servis Durumunu kontrol etme 
   - İşlem Ağağcını görüntelebilme gibi özelliklere sahiptir. 
 
-- Bir paket sorgusu
+
+# Anahtar Kelimeler
+- Açıklab Pardus ve Liman Teknoloji Kampı
+  - Bash Scripting 
+    - Temel bash komutları 
+    - Bash komutlarının php ile implementasyonu 
+- Liman MYS
+- PHP
+- Javascript
+- HTML-CSS 
+
 
